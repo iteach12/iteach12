@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iteach12
-- 👀 I’m interested in html, css, js.
+- 👀 I’m interested in JS / KOTLIN.
 - 🌱 I’m currently learning web front-end things.
 - 💞️ I’m looking to collaborate on nobody
 - 📫 You can't reach me.
