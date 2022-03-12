@@ -2,7 +2,7 @@
 - 👀 I’m interested in html, css, js.
 - 🌱 I’m currently learning web front-end things.
 - 💞️ I’m looking to collaborate on nobody
-- 📫 How to reach me ?
+- 📫 You can't reach me.
 
 <!---
 iteach12/iteach12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
